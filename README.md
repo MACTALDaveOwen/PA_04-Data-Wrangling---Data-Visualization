@@ -32,7 +32,7 @@ plt.tight_layout()                   - prevents overlapping of visuals
 ---
 ## Code Overview
 
-##### 1. Data Loading (Instru)
+##### 1. Data Loading
 
 This code block import pandas to allow the utilisation of data wrangling and data visualization. Moreover, read_excel ensures that .xlsx file is fed directly in a Data Frame for data analyszation.
 ```
