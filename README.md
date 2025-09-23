@@ -8,7 +8,7 @@ This program analyzes the ECE Board Exam dataset from the .xlsx file  using pand
 (3) Visualize whether track, gender, or hometown contribute to higher average scores. <br />
 
 #### Analysis
-Based on the provided data, it suggests that the track chosen in college has a greater impact on the average score, whereas gender and hometown show comparatively less contribution.
+Based on the provided data, none of the factors (chosen track, gender, or hometown) contribute to a significantly higher average score, as the averages across all groups are remarkably similar.
 
 #### Functions Utilized in Pandas
 ```
